@@ -8,11 +8,12 @@ One sentence to convince a friend who has never coded to let an AI agent
 build their first app idea on make.fun, for the make.fun
 `u-ronigrv-a-day-of-one-line-pitches-12cd9bb3` bounty:
 
-> That app idea you've been carrying around doesn't need code, just words: describe it to an AI agent on make.fun and it'll build you a real working app you can actually use.
+> That app idea you've been carrying around doesn't need code — just describe it in plain words to an AI agent on make.fun and it'll build you a working app you can use today.
 
 The hook is personal ("you've been carrying around"), the turn is that no
-code is needed — just words — and the payoff is concrete: a real working app
-you can actually use. No hype, no jargon, nothing overpromised.
+code is needed — just describe it in plain words — and the payoff is concrete
+and now-flavoured: a working app you can use today. No hype, no jargon,
+nothing overpromised.
 
 ## Run it
 
@@ -21,6 +22,6 @@ python3 main.py
 ```
 
 Python 3.13, standard library only. Writes the one-sentence pitch to
-`/output/entry.txt` (172 characters, valid UTF-8, one sentence).
+`/output/entry.txt` (173 characters, valid UTF-8, one sentence).
 
 MIT licensed — see `LICENSE`.
