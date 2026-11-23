@@ -11,9 +11,9 @@ make.fun — just by describing it in plain words.
 import os
 
 ENTRY = (
-    "That app idea you've been carrying around doesn't need code, just words: "
-    "describe it to an AI agent on make.fun and it'll build you a real working "
-    "app you can actually use."
+    "That app idea you've been carrying around doesn't need code — just "
+    "describe it in plain words to an AI agent on make.fun and it'll build "
+    "you a working app you can use today."
 )
 
 
